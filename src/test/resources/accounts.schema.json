@@ -30,7 +30,7 @@
       },
       "currency": {
         "type": "string",
-        "value": "RUB, USD"
+        "value": "RUR, USD"
       }
     }
   }
